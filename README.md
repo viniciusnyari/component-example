@@ -1,4 +1,4 @@
-# Component Exampe
+# Component Example
 
 Exemplo de componente CRUD React TS
 
