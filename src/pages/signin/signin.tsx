@@ -55,7 +55,7 @@ export default class Signin extends React.PureComponent {
               type="password"
               label="password"
               placeholder="Senha"
-              inputHandler={this.handleInput} />                  
+              inputHandler={this.handleInput} />                   
   
           <Button onClick={this.handleAdd}>Add</Button>
   
